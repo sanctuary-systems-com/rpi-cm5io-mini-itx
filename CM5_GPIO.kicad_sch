@@ -10584,6 +10584,12 @@
 		(uuid "572def52-9267-40af-9e6d-1bcf66b96a05")
 	)
 	(junction
+		(at 165.1 132.08)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5a0ae0d6-3714-4ff6-abcf-02132417b019")
+	)
+	(junction
 		(at 38.1 143.51)
 		(diameter 1.016)
 		(color 0 0 0 0)
@@ -10668,7 +10674,7 @@
 		(uuid "91686bb5-7a82-42fb-9000-db29e45a41fa")
 	)
 	(junction
-		(at 172.72 124.46)
+		(at 165.1 116.84)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "96fdea46-808b-478f-b07f-9feb6cc1653b")
@@ -11075,6 +11081,16 @@
 	)
 	(wire
 		(pts
+			(xy 199.39 142.24) (xy 199.39 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1347fb40-49c7-4ac8-a8c4-5f470e1b7fc2")
+	)
+	(wire
+		(pts
 			(xy 116.84 36.83) (xy 116.84 34.29)
 		)
 		(stroke
@@ -11105,6 +11121,16 @@
 	)
 	(wire
 		(pts
+			(xy 143.51 148.59) (xy 161.29 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1851291f-ce97-469f-bdf7-0a3c107531c9")
+	)
+	(wire
+		(pts
 			(xy 100.33 29.21) (xy 101.6 29.21)
 		)
 		(stroke
@@ -11132,6 +11158,16 @@
 			(type solid)
 		)
 		(uuid "1913ae2c-1bc2-48d9-914f-4c532d02ffb4")
+	)
+	(wire
+		(pts
+			(xy 199.39 148.59) (xy 190.5 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a804341-627a-453f-9f9a-7f466adcaaf5")
 	)
 	(wire
 		(pts
@@ -11375,7 +11411,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 142.24) (xy 165.1 147.32)
+			(xy 157.48 134.62) (xy 157.48 139.7)
 		)
 		(stroke
 			(width 0)
@@ -11395,7 +11431,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 124.46) (xy 172.72 124.46)
+			(xy 160.02 116.84) (xy 165.1 116.84)
 		)
 		(stroke
 			(width 0)
@@ -11405,7 +11441,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 137.16) (xy 165.1 132.08)
+			(xy 157.48 129.54) (xy 157.48 124.46)
 		)
 		(stroke
 			(width 0)
@@ -11562,6 +11598,16 @@
 			(type solid)
 		)
 		(uuid "4193c934-e0cb-4ad9-94c5-4a60e078c3b7")
+	)
+	(wire
+		(pts
+			(xy 199.39 134.62) (xy 199.39 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42fad8b9-be15-4738-a588-6dbf1c4c4113")
 	)
 	(wire
 		(pts
@@ -12005,6 +12051,16 @@
 	)
 	(wire
 		(pts
+			(xy 165.1 132.08) (xy 199.39 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69b630d2-f5c3-4e46-86d6-9fd0fae1f422")
+	)
+	(wire
+		(pts
 			(xy 152.4 34.29) (xy 151.13 34.29)
 		)
 		(stroke
@@ -12122,6 +12178,16 @@
 			(type solid)
 		)
 		(uuid "7cb6b52f-a428-4a6e-b5b7-84f253789f4d")
+	)
+	(wire
+		(pts
+			(xy 168.91 148.59) (xy 177.8 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d028659-5b8b-489b-b7a6-1c57e951814b")
 	)
 	(wire
 		(pts
@@ -12305,7 +12371,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 133.35) (xy 172.72 139.7)
+			(xy 165.1 125.73) (xy 165.1 132.08)
 		)
 		(stroke
 			(width 0)
@@ -12395,7 +12461,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 132.08) (xy 156.21 132.08)
+			(xy 157.48 124.46) (xy 148.59 124.46)
 		)
 		(stroke
 			(width 0)
@@ -12415,7 +12481,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 123.19) (xy 172.72 124.46)
+			(xy 165.1 115.57) (xy 165.1 116.84)
 		)
 		(stroke
 			(width 0)
@@ -12642,6 +12708,16 @@
 			(type solid)
 		)
 		(uuid "a523695c-35b4-4859-b781-154824ab5ca9")
+	)
+	(wire
+		(pts
+			(xy 190.5 146.05) (xy 196.85 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a700c9aa-5337-4c69-8b14-fde0b09de35f")
 	)
 	(wire
 		(pts
@@ -12945,7 +13021,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 139.7) (xy 171.45 139.7)
+			(xy 165.1 132.08) (xy 163.83 132.08)
 		)
 		(stroke
 			(width 0)
@@ -13085,7 +13161,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 115.57) (xy 168.91 115.57)
+			(xy 165.1 107.95) (xy 161.29 107.95)
 		)
 		(stroke
 			(width 0)
@@ -13175,7 +13251,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 139.7) (xy 157.48 139.7)
+			(xy 135.89 132.08) (xy 149.86 132.08)
 		)
 		(stroke
 			(width 0)
@@ -13415,6 +13491,16 @@
 	)
 	(wire
 		(pts
+			(xy 175.26 146.05) (xy 177.8 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e34deea0-5642-4a28-bba1-33e988d0003c")
+	)
+	(wire
+		(pts
 			(xy 232.41 118.11) (xy 220.98 118.11)
 		)
 		(stroke
@@ -13605,7 +13691,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 124.46) (xy 172.72 125.73)
+			(xy 165.1 116.84) (xy 165.1 118.11)
 		)
 		(stroke
 			(width 0)
@@ -13827,6 +13913,16 @@
 		)
 		(uuid "726d5642-3df2-46ac-8dab-77f2dd7a181f")
 	)
+	(text "Front panel IO"
+		(exclude_from_sim no)
+		(at 183.896 139.192 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "8022d70a-9027-4344-88b1-9e8443b8d8a8")
+	)
 	(text "GPIO Voltage select\n"
 		(exclude_from_sim no)
 		(at 167.64 87.63 0)
@@ -13873,7 +13969,7 @@
 	)
 	(text "PWR LED"
 		(exclude_from_sim no)
-		(at 175.895 117.475 0)
+		(at 168.275 109.855 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14321,6 +14417,17 @@
 			(justify left bottom)
 		)
 		(uuid "2e95b89a-d151-4ceb-8ea1-75ed88f1541e")
+	)
+	(label "LED_nACT"
+		(at 102.87 46.99 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2edb03ea-e027-41aa-8932-18271123deba")
 	)
 	(label "GPIO4"
 		(at 24.13 87.63 0)
@@ -14895,7 +15002,7 @@
 		(uuid "8a2747cd-9545-4996-b99f-a27623db4e36")
 	)
 	(label "nPWR_LED"
-		(at 146.05 139.7 0)
+		(at 138.43 132.08 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -14915,6 +15022,17 @@
 			(justify left bottom)
 		)
 		(uuid "8b6d23e1-36db-42f1-8a08-9f4ec1369434")
+	)
+	(label "+3.3v"
+		(at 175.26 146.05 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "8c77afde-09c3-4b19-abf7-8bbbd0abedc8")
 	)
 	(label "SD_DAT1"
 		(at 223.52 133.35 0)
@@ -14938,6 +15056,17 @@
 		)
 		(uuid "8d461b4d-62dc-488b-8977-3c95555f9343")
 	)
+	(label "LED_nACT"
+		(at 146.05 148.59 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8e1a208b-c03a-4b35-9243-fdc0c70faf8a")
+	)
 	(label "GPIO18"
 		(at 110.49 82.55 180)
 		(fields_autoplaced yes)
@@ -14948,6 +15077,17 @@
 			(justify right bottom)
 		)
 		(uuid "8edcf05f-b0d5-49a3-b916-fcd5f9b197b1")
+	)
+	(label "+3.3v"
+		(at 196.85 146.05 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "907694f5-cef1-426e-acc3-dc3e8b72e65d")
 	)
 	(label "TRD2_N"
 		(at 102.87 31.75 0)
@@ -15126,7 +15266,7 @@
 		(uuid "b7986f62-ea7a-4dc5-91cd-26acb8e0379b")
 	)
 	(label "+3.3v"
-		(at 161.29 132.08 180)
+		(at 153.67 124.46 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -15401,7 +15541,7 @@
 		(uuid "dd25caf2-c470-499e-9b28-d47564283b2f")
 	)
 	(label "+3.3v"
-		(at 172.72 115.57 180)
+		(at 165.1 107.95 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -15636,6 +15776,18 @@
 		)
 		(uuid "1d32a3a2-931e-4061-9909-454f851a337d")
 	)
+	(hierarchical_label "PWR_BUT"
+		(shape input)
+		(at 25.4 135.89 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "242f42b3-abde-42d7-88c7-832fe34ee944")
+	)
 	(hierarchical_label "+3.3v"
 		(shape output)
 		(at 25.4 125.73 180)
@@ -15734,7 +15886,7 @@
 	)
 	(symbol
 		(lib_id "CM5IO:74LVC1G07_copy")
-		(at 165.1 139.7 0)
+		(at 157.48 132.08 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15742,7 +15894,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005d4045a5")
 		(property "Reference" "U5"
-			(at 166.624 137.16 0)
+			(at 159.004 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15751,7 +15903,7 @@
 			)
 		)
 		(property "Value" "74LVC1G07SE-7"
-			(at 166.624 142.24 0)
+			(at 159.004 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15760,7 +15912,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
-			(at 165.1 139.7 0)
+			(at 157.48 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15769,7 +15921,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/74LVC1G07.pdf"
-			(at 165.1 139.7 0)
+			(at 157.48 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15778,7 +15930,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 165.1 139.7 0)
+			(at 157.48 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15787,7 +15939,7 @@
 			)
 		)
 		(property "Field4" "Farnell"
-			(at 165.1 139.7 0)
+			(at 157.48 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15796,7 +15948,7 @@
 			)
 		)
 		(property "Field5" "2425492"
-			(at 165.1 139.7 0)
+			(at 157.48 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15805,7 +15957,7 @@
 			)
 		)
 		(property "Field6" "74LVC1G07SE-7"
-			(at 165.1 139.7 0)
+			(at 157.48 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15814,7 +15966,7 @@
 			)
 		)
 		(property "Field7" "Diodes"
-			(at 165.1 139.7 0)
+			(at 157.48 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15823,7 +15975,7 @@
 			)
 		)
 		(property "Part Description" "Buffer, Non-Inverting 1 Element 1 Bit per Element Open Drain Output SOT-353"
-			(at 165.1 139.7 0)
+			(at 157.48 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18177,7 +18329,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 165.1 147.32 0)
+		(at 157.48 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18185,7 +18337,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005e20cb90")
 		(property "Reference" "#PWR05"
-			(at 165.1 153.67 0)
+			(at 157.48 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18194,7 +18346,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 165.227 151.7142 0)
+			(at 157.607 144.0942 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18202,7 +18354,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 165.1 147.32 0)
+			(at 157.48 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18211,7 +18363,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 165.1 147.32 0)
+			(at 157.48 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18220,7 +18372,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 165.1 147.32 0)
+			(at 157.48 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18243,7 +18395,7 @@
 	(symbol
 		(lib_name "LED_1")
 		(lib_id "Device:LED")
-		(at 172.72 119.38 90)
+		(at 165.1 111.76 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18251,7 +18403,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005e286645")
 		(property "Reference" "D1"
-			(at 175.6918 118.3894 90)
+			(at 168.0718 110.7694 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18260,7 +18412,7 @@
 			)
 		)
 		(property "Value" "LED Red"
-			(at 175.6918 120.7008 90)
+			(at 168.0718 113.0808 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18269,7 +18421,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 172.72 119.38 0)
+			(at 165.1 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18278,7 +18430,7 @@
 			)
 		)
 		(property "Datasheet" "http://optoelectronics.liteon.com/upload/download/DS22-2000-210/LTST-S270KRKT.pdf"
-			(at 172.72 119.38 0)
+			(at 165.1 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18287,7 +18439,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 172.72 119.38 0)
+			(at 165.1 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18296,7 +18448,7 @@
 			)
 		)
 		(property "Field4" "Digikey "
-			(at 172.72 119.38 0)
+			(at 165.1 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18305,7 +18457,7 @@
 			)
 		)
 		(property "Field5" "	LTST-S270KRKT"
-			(at 172.72 119.38 0)
+			(at 165.1 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18314,7 +18466,7 @@
 			)
 		)
 		(property "Field6" "SML-A12U8TT86Q"
-			(at 172.72 119.38 0)
+			(at 165.1 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18323,7 +18475,7 @@
 			)
 		)
 		(property "Field7" "Rohm"
-			(at 172.72 119.38 0)
+			(at 165.1 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18332,7 +18484,7 @@
 			)
 		)
 		(property "Field8" "650295101"
-			(at 172.72 119.38 0)
+			(at 165.1 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18341,7 +18493,7 @@
 			)
 		)
 		(property "Part Description" "	Red 620nm LED Indication - Discrete 2.2V 2-SMD, No Lead"
-			(at 172.72 119.38 0)
+			(at 165.1 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18366,7 +18518,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 172.72 129.54 0)
+		(at 165.1 121.92 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18374,7 +18526,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005e28664f")
 		(property "Reference" "R10"
-			(at 174.498 128.3716 0)
+			(at 166.878 120.7516 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18383,7 +18535,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 174.498 130.683 0)
+			(at 166.878 123.063 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18392,7 +18544,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 170.942 129.54 90)
+			(at 163.322 121.92 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18401,7 +18553,7 @@
 			)
 		)
 		(property "Datasheet" "https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr-e.pdf"
-			(at 172.72 129.54 0)
+			(at 165.1 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18410,7 +18562,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 172.72 129.54 0)
+			(at 165.1 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18419,7 +18571,7 @@
 			)
 		)
 		(property "Field4" "Farnell"
-			(at 172.72 129.54 0)
+			(at 165.1 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18428,7 +18580,7 @@
 			)
 		)
 		(property "Field5" "9239235"
-			(at 172.72 129.54 0)
+			(at 165.1 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18437,7 +18589,7 @@
 			)
 		)
 		(property "Field7" "KOA EUROPE GMBH"
-			(at 172.72 129.54 0)
+			(at 165.1 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18446,7 +18598,7 @@
 			)
 		)
 		(property "Field6" "RK73H1ETTP1001F"
-			(at 172.72 129.54 0)
+			(at 165.1 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18455,7 +18607,7 @@
 			)
 		)
 		(property "Part Description" "Resistor 1K M1005 1% 63mW"
-			(at 172.72 129.54 0)
+			(at 165.1 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18464,7 +18616,7 @@
 			)
 		)
 		(property "Field8" "125049511"
-			(at 172.72 129.54 0)
+			(at 165.1 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18634,7 +18786,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 167.64 124.46 90)
+		(at 160.02 116.84 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -18642,7 +18794,7 @@
 		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005e5bd558")
 		(property "Reference" "TP5"
-			(at 165.2778 121.793 90)
+			(at 157.6578 114.173 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18651,7 +18803,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 170.3578 126.873 90)
+			(at 162.7378 119.253 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18660,7 +18812,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
-			(at 167.64 119.38 0)
+			(at 160.02 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18669,7 +18821,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 167.64 119.38 0)
+			(at 160.02 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18678,7 +18830,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 167.64 124.46 0)
+			(at 160.02 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18687,7 +18839,7 @@
 			)
 		)
 		(property "Field4" "nf"
-			(at 167.64 124.46 0)
+			(at 160.02 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18696,7 +18848,7 @@
 			)
 		)
 		(property "Field5" "nf"
-			(at 167.64 124.46 0)
+			(at 160.02 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18705,7 +18857,7 @@
 			)
 		)
 		(property "Field6" "nf"
-			(at 167.64 124.46 0)
+			(at 160.02 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18714,7 +18866,7 @@
 			)
 		)
 		(property "Field7" "nf"
-			(at 167.64 124.46 0)
+			(at 160.02 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18723,7 +18875,7 @@
 			)
 		)
 		(property "Part Description" "Test point"
-			(at 167.64 124.46 0)
+			(at 160.02 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20256,6 +20408,129 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 199.39 138.43 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5bc25bf6-36c4-4447-a36e-623883b33efb")
+		(property "Reference" "R11"
+			(at 201.168 137.2616 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1k"
+			(at 201.168 139.573 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 197.612 138.43 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr-e.pdf"
+			(at 199.39 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 199.39 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field4" "Farnell"
+			(at 199.39 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" "9239235"
+			(at 199.39 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field7" "KOA EUROPE GMBH"
+			(at 199.39 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field6" "RK73H1ETTP1001F"
+			(at 199.39 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Description" "Resistor 1K M1005 1% 63mW"
+			(at 199.39 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field8" "125049511"
+			(at 199.39 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "df559462-a6ef-44ac-9e4c-f817e28c2abb")
+		)
+		(pin "2"
+			(uuid "19e88566-5264-4e93-b789-6a10825ef16e")
+		)
+		(instances
+			(project "CM5IO"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005cff706a"
+					(reference "R11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector_Generic:Conn_01x04")
 		(at 152.4 170.18 0)
 		(unit 1)
@@ -20716,6 +20991,256 @@
 			(project "CM5IO"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005cff706a"
 					(reference "#PWR030")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_02x02_Odd_Even")
+		(at 182.88 146.05 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f68f8e86-3210-49b7-a2de-d231fd67cca9")
+		(property "Reference" "J13"
+			(at 184.15 140.5382 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "THD-02-R"
+			(at 184.15 142.8496 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical"
+			(at 182.88 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.toby.co.uk/uploads/publications/1673.pdf"
+			(at 182.88 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 182.88 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field4" "Toby"
+			(at 182.88 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" "THD-02-R"
+			(at 182.88 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field6" "151-604-425-761"
+			(at 182.88 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field7" "EDAC"
+			(at 182.88 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field8" "UCON00791"
+			(at 182.88 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Description" "PinHeader_2x02_P2.54mm_Vertical"
+			(at 182.88 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e943436c-785b-4535-ac9c-051affa709dc")
+		)
+		(pin "2"
+			(uuid "17f62cf4-9ecb-499d-801d-f7d025d9d48a")
+		)
+		(pin "3"
+			(uuid "b13cba98-f456-4234-a032-43fe5c1c007e")
+		)
+		(pin "4"
+			(uuid "e16eb5eb-fa98-44e4-9d07-a8cb6b8fda75")
+		)
+		(instances
+			(project "CM5IO"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005cff706a"
+					(reference "J13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 165.1 148.59 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f6b0340a-4e06-4f0c-8820-ede82ab94ab8")
+		(property "Reference" "R13"
+			(at 163.9316 146.812 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1k"
+			(at 166.243 146.812 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 165.1 150.368 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr-e.pdf"
+			(at 165.1 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 165.1 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field4" "Farnell"
+			(at 165.1 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" "9239235"
+			(at 165.1 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field7" "KOA EUROPE GMBH"
+			(at 165.1 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field6" "RK73H1ETTP1001F"
+			(at 165.1 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Description" "Resistor 1K M1005 1% 63mW"
+			(at 165.1 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field8" "125049511"
+			(at 165.1 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f59a444e-035d-42eb-b4a5-71ddfeade857")
+		)
+		(pin "2"
+			(uuid "01ef4cb4-3915-4b1f-8b5a-ddecd641eddd")
+		)
+		(instances
+			(project "CM5IO"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005cff706a"
+					(reference "R13")
 					(unit 1)
 				)
 			)
