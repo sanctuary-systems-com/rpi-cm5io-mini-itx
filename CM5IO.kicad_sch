@@ -2524,16 +2524,6 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 72.39) (xy 214.63 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a8690438-b6c5-46ae-bc23-906e22bda6c7")
-	)
-	(wire
-		(pts
 			(xy 93.98 111.76) (xy 106.68 111.76)
 		)
 		(stroke
@@ -3336,7 +3326,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CM5IO:MountingHole_2.7mm_M2.5_DIN965"
+		(property "Footprint" "CM5IO:atx_mountinghole"
 			(at 22.86 165.735 0)
 			(effects
 				(font
@@ -3552,7 +3542,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CM5IO:MountingHole_2.7mm_M2.5_DIN965"
+		(property "Footprint" "CM5IO:atx_mountinghole"
 			(at 43.815 180.975 0)
 			(effects
 				(font
@@ -3660,7 +3650,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CM5IO:MountingHole_2.7mm_M2.5_DIN965"
+		(property "Footprint" "CM5IO:atx_mountinghole"
 			(at 43.815 175.895 0)
 			(effects
 				(font
@@ -3768,7 +3758,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CM5IO:MountingHole_2.7mm_M2.5_DIN965"
+		(property "Footprint" "CM5IO:atx_mountinghole"
 			(at 43.815 170.815 0)
 			(effects
 				(font
@@ -4063,7 +4053,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Molex:Molex_Mini-Fit_Jr_5566-24A_2x12_P4.20mm_Vertical"
 			(at 81.28 119.38 0)
 			(effects
 				(font
@@ -4199,7 +4189,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-92L_Wide"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 62.23 121.285 0)
 			(effects
 				(font
@@ -4273,7 +4263,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-323F"
 			(at 49.53 106.68 0)
 			(effects
 				(font
@@ -4282,7 +4272,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://4donline.ihs.com/images/VipMasterIC/IC/PHGL/PHGL-S-A0001056703/PHGL-S-A0001057188-1.pdf?hkey=6D3A4C79FDBF58556ACFDE234799DDF0"
 			(at 49.53 106.68 0)
 			(effects
 				(font
@@ -4291,7 +4281,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Diode"
+		(property "Description" "1PS76SB10,115"
 			(at 49.53 106.68 0)
 			(effects
 				(font
@@ -5300,16 +5290,6 @@
 				(justify left)
 			)
 			(uuid "9bb20359-0f8b-45bc-9d38-6626ed3a939d")
-		)
-		(pin "PCIE_PWR_EN" output
-			(at 186.69 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "e445000d-94a3-4ed1-b023-6aae972d0a39")
 		)
 		(pin "PCIE_nWAKE" input
 			(at 186.69 76.2 0)

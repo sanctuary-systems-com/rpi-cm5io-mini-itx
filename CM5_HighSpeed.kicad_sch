@@ -7456,6 +7456,10 @@
 		(at 254 138.43)
 		(uuid "7b75907b-b2ae-4362-89fa-d520339aaa5c")
 	)
+	(no_connect
+		(at 38.1 30.48)
+		(uuid "83b3eb13-0405-46a3-8214-7a577f752bf6")
+	)
 	(wire
 		(pts
 			(xy 134.62 109.22) (xy 151.13 109.22)
@@ -8305,16 +8309,6 @@
 			(type solid)
 		)
 		(uuid "51f5536d-48d2-4807-be44-93f427952b0e")
-	)
-	(wire
-		(pts
-			(xy 31.75 30.48) (xy 38.1 30.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5243fe6a-ae55-40b5-8db1-ec9d4b04147b")
 	)
 	(wire
 		(pts
@@ -11876,18 +11870,6 @@
 			(justify left)
 		)
 		(uuid "02b1295e-cf95-47ff-9c57-f8ada28f2e94")
-	)
-	(hierarchical_label "PCIE_PWR_EN"
-		(shape output)
-		(at 31.75 30.48 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "1dacd626-a559-4363-9eb3-77dde5d16024")
 	)
 	(hierarchical_label "PCIE_CLK_P"
 		(shape output)

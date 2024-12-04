@@ -14751,18 +14751,6 @@
 		)
 		(uuid "feef085c-8ff2-444a-890e-15253d95c35f")
 	)
-	(hierarchical_label "PCIE_RX_N"
-		(shape output)
-		(at 25.4 63.5 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "0afc6592-c2db-4caa-a22b-f13f9e7e1c40")
-	)
 	(hierarchical_label "+12v"
 		(shape input)
 		(at 83.82 20.32 90)
@@ -14774,6 +14762,18 @@
 			(justify left)
 		)
 		(uuid "0f304ef3-9140-4ce7-89d5-191c317de51e")
+	)
+	(hierarchical_label "PCIE_RX_P"
+		(shape output)
+		(at 25.4 63.5 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2a089339-6cc9-4880-bf77-a1668ee0303d")
 	)
 	(hierarchical_label "+3.3V"
 		(shape input)
@@ -14823,7 +14823,7 @@
 		)
 		(uuid "4f2de74c-a0a3-419c-86d3-f1056d120362")
 	)
-	(hierarchical_label "PCIE_RX_P"
+	(hierarchical_label "PCIE_RX_N"
 		(shape output)
 		(at 25.4 66.04 180)
 		(fields_autoplaced yes)
@@ -14833,7 +14833,7 @@
 			)
 			(justify right)
 		)
-		(uuid "62b6b2b3-6ade-4e95-8062-936451a2172f")
+		(uuid "8b6a3e1e-81e3-4714-9698-4ae0a4689e2b")
 	)
 	(hierarchical_label "+3.3V"
 		(shape input)
