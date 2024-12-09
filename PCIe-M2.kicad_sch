@@ -14775,7 +14775,7 @@
 		)
 		(uuid "2a089339-6cc9-4880-bf77-a1668ee0303d")
 	)
-	(hierarchical_label "+3.3V"
+	(hierarchical_label "+3.3v"
 		(shape input)
 		(at 74.93 20.32 90)
 		(fields_autoplaced yes)
@@ -14835,7 +14835,7 @@
 		)
 		(uuid "8b6a3e1e-81e3-4714-9698-4ae0a4689e2b")
 	)
-	(hierarchical_label "+3.3V"
+	(hierarchical_label "+3.3v"
 		(shape input)
 		(at 26.67 21.59 90)
 		(fields_autoplaced yes)
