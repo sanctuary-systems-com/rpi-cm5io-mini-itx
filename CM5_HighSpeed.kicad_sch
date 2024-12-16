@@ -12609,6 +12609,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C328314"
+			(at 207.01 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "eca8c1f1-6751-4304-8a65-b05952048507")
 		)
@@ -12732,6 +12741,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C328314"
+			(at 214.63 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "56dc9d1a-d125-4218-be7e-afbadad9f13c")
 		)
@@ -12838,6 +12856,15 @@
 			)
 		)
 		(property "Part Description" "22 Position FFC, FPC Connector Contacts, Bottom 0.020\" (0.50mm) Surface Mount, Right Angle"
+			(at 156.21 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C597981"
 			(at 156.21 50.8 0)
 			(effects
 				(font
@@ -13012,6 +13039,15 @@
 			)
 		)
 		(property "Part Description" "22 Position FFC, FPC Connector Contacts, Bottom 0.020\" (0.50mm) Surface Mount, Right Angle"
+			(at 156.21 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C597981"
 			(at 156.21 121.92 0)
 			(effects
 				(font
@@ -13195,6 +13231,15 @@
 			)
 		)
 		(property "Field8" "UCON00802"
+			(at 264.16 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C720616"
 			(at 264.16 50.8 0)
 			(effects
 				(font
@@ -13389,6 +13434,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C720616"
+			(at 264.16 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "SH2"
 			(uuid "2b1a1d99-4ea2-4cae-846a-5609aadc4265")
 		)
@@ -13575,6 +13629,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C92753"
+			(at 229.87 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fb4e7351-d265-4999-adf6-bc7596c21cf3")
 		)
@@ -13698,6 +13761,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C92753"
+			(at 196.85 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7308e13a-4809-4e8e-af65-9905819aa376")
 		)
@@ -13811,6 +13883,15 @@
 			)
 		)
 		(property "Field8" "USWI00155"
+			(at 213.36 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C3235509"
 			(at 213.36 151.13 0)
 			(effects
 				(font
@@ -14119,6 +14200,15 @@
 			)
 		)
 		(property "Part Description" "	100 Position Connector Receptacle, Center Strip Contacts Surface Mount Gold"
+			(at -71.12 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C19089295"
 			(at -71.12 86.36 0)
 			(effects
 				(font
@@ -14842,6 +14932,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C492419"
+			(at 196.85 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a6187c22-3622-4a1a-a49a-b21e96986f96")
 		)
@@ -15036,6 +15135,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C117956"
+			(at 100.33 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "15d5296c-f8fc-493c-bbc5-3b2dab8930e1")
 		)
@@ -15152,6 +15260,15 @@
 		)
 		(property "Field8" ""
 			(at 138.43 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C328314"
+			(at 138.43 137.16 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15321,6 +15438,15 @@
 			)
 		)
 		(property "Field7" "Panasonic"
+			(at 87.63 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C189619"
 			(at 87.63 181.61 0)
 			(effects
 				(font
@@ -15510,6 +15636,15 @@
 		)
 		(property "Field8" "120891581"
 			(at 78.74 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C525579"
+			(at 78.74 177.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15770,6 +15905,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C117956"
+			(at 110.49 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5cccaafe-7218-4c61-bcd5-123669d22dea")
 		)
@@ -15874,6 +16018,15 @@
 			)
 		)
 		(property "Part Description" "	Power Switch/Driver 1:1 P-Channel 2.1A SOT-23-6"
+			(at 59.69 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2158037"
 			(at 59.69 177.8 0)
 			(effects
 				(font
@@ -15991,6 +16144,15 @@
 			)
 		)
 		(property "Part Description" "Dual USB 3 connector"
+			(at 208.28 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5519092"
 			(at 208.28 52.07 0)
 			(effects
 				(font
@@ -16360,6 +16522,15 @@
 			)
 		)
 		(property "Field8" "111893011"
+			(at 29.21 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C117956"
 			(at 29.21 180.34 0)
 			(effects
 				(font

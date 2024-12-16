@@ -15095,6 +15095,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C404112"
+			(at 38.1 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "A20"
 			(uuid "306afccb-8c4b-43d0-a461-b9b9f587817f")
 		)
@@ -15645,6 +15654,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 198.12 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C404112"
 			(at 198.12 26.67 0)
 			(effects
 				(font
@@ -16276,6 +16294,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C404112"
+			(at 86.36 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "A20"
 			(uuid "306afccb-8c4b-43d0-a461-b9b9f5878181")
 		)
@@ -16826,6 +16853,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 220.98 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C404112"
 			(at 220.98 26.67 0)
 			(effects
 				(font

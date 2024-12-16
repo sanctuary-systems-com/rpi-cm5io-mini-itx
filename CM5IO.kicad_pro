@@ -637,7 +637,7 @@
       "gencad": "CM5IOUSB3.cad",
       "idf": "",
       "netlist": "CM5IO.net",
-      "plot": "./",
+      "plot": "RPI-CM5IO-Gerber200924/",
       "pos_files": "RPI-CM5IO-Gerber200924/",
       "specctra_dsn": "",
       "step": "",
@@ -680,13 +680,13 @@
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
           "label": "Footprint",
           "name": "Footprint",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -710,43 +710,55 @@
           "group_by": false,
           "label": "Field4",
           "name": "Field4",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
           "label": "Field5",
           "name": "Field5",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
           "label": "Field6",
           "name": "Field6",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
           "label": "Field7",
           "name": "Field7",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
           "label": "Field8",
           "name": "Field8",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
           "label": "Part Description",
           "name": "Part Description",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
           "label": "Description",
           "name": "Description",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "mpn",
+          "name": "mpn",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC",
+          "name": "LCSC",
+          "show": true
         }
       ],
       "filter_string": "",
