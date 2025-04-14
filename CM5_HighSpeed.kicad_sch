@@ -12744,6 +12744,15 @@
 				(hide yes)
 			)
 		)
+		(property "mpn" "687122149022"
+			(at 156.21 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "76a87642-211c-44f2-a488-190d6dc3728e")
 		)
@@ -12919,6 +12928,15 @@
 			)
 		)
 		(property "LCSC" "C597981"
+			(at 156.21 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mpn" "687122149022"
 			(at 156.21 121.92 0)
 			(effects
 				(font
@@ -14098,6 +14116,15 @@
 			)
 		)
 		(property "LCSC" "C19089295"
+			(at -71.12 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mpn" "10164227-1001A1RLF"
 			(at -71.12 86.36 0)
 			(effects
 				(font

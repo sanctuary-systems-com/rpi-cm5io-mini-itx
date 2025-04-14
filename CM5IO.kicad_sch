@@ -1377,6 +1377,174 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Device:D_Zener_Dual_CommonCathode_AAK_Split"
+			(pin_names
+				(offset 0.762)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "D_Zener_Dual_CommonCathode_AAK_Split"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at -2.54 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at -2.54 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Dual Zener diode, common cathode on pin 3"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "D_Zener_Dual_CommonCathode_AAK_Split_0_0"
+				(polyline
+					(pts
+						(xy 1.27 1.27) (xy 1.27 -1.27) (xy 0.762 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "D_Zener_Dual_CommonCathode_AAK_Split_0_1"
+				(polyline
+					(pts
+						(xy -1.27 1.27) (xy 1.27 0) (xy -1.27 -1.27) (xy -1.27 1.27) (xy -1.27 1.27) (xy -1.27 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "D_Zener_Dual_CommonCathode_AAK_Split_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "D_Zener_Dual_CommonCathode_AAK_Split_2_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:R"
 			(pin_numbers
 				(hide yes)
@@ -1484,155 +1652,6 @@
 					(at 0 -3.81 90)
 					(length 1.27)
 					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Diode:BZX84Cxx"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "D"
-				(at 0 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "BZX84Cxx"
-				(at 0 -2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "Diode_SMD:D_SOT-23_ANK"
-				(at 0 -4.445 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://diotec.com/tl_files/diotec/files/pdf/datasheets/bzx84c2v4.pdf"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "300mW Zener Diode, SOT-23"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "zener diode"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "D*SOT?23*ANK*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "BZX84Cxx_0_1"
-				(polyline
-					(pts
-						(xy -1.27 -1.27) (xy -1.27 1.27) (xy -0.762 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 0) (xy -1.27 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -1.27) (xy 1.27 1.27) (xy -1.27 0) (xy 1.27 -1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "BZX84Cxx_1_1"
-				(pin passive line
-					(at -3.81 0 0)
-					(length 2.54)
-					(name "K"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 3.81 0 180)
-					(length 2.54)
-					(name "A"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2535,22 +2554,28 @@
 		(uuid "a501555e-bbc7-4b58-ad89-28a0cd3dd6d0")
 	)
 	(junction
-		(at 97.917 119.38)
-		(diameter 1.016)
-		(color 0 0 0 0)
-		(uuid "0cf8761a-1e58-447f-ac28-a833c86d27cb")
-	)
-	(junction
 		(at 43.18 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "142b7f56-c655-4950-851f-d858f1ecc883")
 	)
 	(junction
+		(at 99.06 120.65)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1cc34e4a-b3c1-49d7-8e63-0209ecc221bc")
+	)
+	(junction
 		(at 97.917 120.65)
 		(diameter 1.016)
 		(color 0 0 0 0)
 		(uuid "237d192d-2ab6-4251-a66a-09a85b413b38")
+	)
+	(junction
+		(at 99.06 110.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2d544a15-3cc4-447e-a27a-a98ea2c088dd")
 	)
 	(junction
 		(at 72.39 80.01)
@@ -2581,12 +2606,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e893d0b8-52a7-4c2e-afa0-d0df7578cae6")
-	)
-	(junction
-		(at 97.917 110.49)
-		(diameter 1.016)
-		(color 0 0 0 0)
-		(uuid "fd3e4bc1-43f8-4e00-b547-67c62d2a0b7e")
 	)
 	(no_connect
 		(at 66.04 102.87)
@@ -2660,7 +2679,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 118.11) (xy 90.17 119.38)
+			(xy 90.17 118.11) (xy 90.17 120.65)
 		)
 		(stroke
 			(width 0)
@@ -2710,6 +2729,16 @@
 	)
 	(wire
 		(pts
+			(xy 99.06 119.38) (xy 99.06 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "253126ff-ba7c-4056-b263-59b943b35877")
+	)
+	(wire
+		(pts
 			(xy 43.18 83.82) (xy 43.18 82.55)
 		)
 		(stroke
@@ -2717,16 +2746,6 @@
 			(type default)
 		)
 		(uuid "26eed24a-a6fe-4994-877d-88ca1bd022b3")
-	)
-	(wire
-		(pts
-			(xy 97.917 110.49) (xy 118.237 110.49)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "2910f785-4afd-438f-97ce-c34acdd32c4d")
 	)
 	(wire
 		(pts
@@ -2770,13 +2789,13 @@
 	)
 	(wire
 		(pts
-			(xy 97.917 120.65) (xy 118.237 120.65)
+			(xy 99.06 120.65) (xy 97.917 120.65)
 		)
 		(stroke
 			(width 0)
-			(type solid)
+			(type default)
 		)
-		(uuid "3c5b06fd-f6e6-4bd5-9df5-7e67b36d5a80")
+		(uuid "3ca08c81-ad4e-4fe0-8462-4326a27546f5")
 	)
 	(wire
 		(pts
@@ -2930,16 +2949,6 @@
 	)
 	(wire
 		(pts
-			(xy 97.917 119.38) (xy 97.917 120.65)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "7a002cef-0be6-4d5b-8baf-60fcefa2e677")
-	)
-	(wire
-		(pts
 			(xy 170.18 96.52) (xy 170.18 111.76)
 		)
 		(stroke
@@ -2957,16 +2966,6 @@
 			(type solid)
 		)
 		(uuid "7f3eb118-a20c-4239-b800-c9211c66847d")
-	)
-	(wire
-		(pts
-			(xy 97.917 110.49) (xy 97.917 111.76)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "8076042e-11bb-4613-975a-3ccf72ad4927")
 	)
 	(wire
 		(pts
@@ -3010,7 +3009,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 110.49) (xy 97.917 110.49)
+			(xy 95.25 110.49) (xy 99.06 110.49)
 		)
 		(stroke
 			(width 0)
@@ -3050,6 +3049,16 @@
 	)
 	(wire
 		(pts
+			(xy 99.06 120.65) (xy 118.237 120.65)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "9e79e990-3391-4e5c-85fa-3f5c323e76ec")
+	)
+	(wire
+		(pts
 			(xy 97.917 120.65) (xy 97.917 121.92)
 		)
 		(stroke
@@ -3080,7 +3089,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 119.38) (xy 97.917 119.38)
+			(xy 90.17 120.65) (xy 97.917 120.65)
 		)
 		(stroke
 			(width 0)
@@ -3157,6 +3166,16 @@
 			(type default)
 		)
 		(uuid "d0c98c85-2de8-4c04-a813-9508077ab998")
+	)
+	(wire
+		(pts
+			(xy 99.06 110.49) (xy 118.237 110.49)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "d271e8f5-1d6c-4781-997a-b88c7ce0cbef")
 	)
 	(wire
 		(pts
@@ -3267,6 +3286,16 @@
 			(type default)
 		)
 		(uuid "fa92842d-37e8-4687-b4f4-0cfd415b8d84")
+	)
+	(wire
+		(pts
+			(xy 99.06 110.49) (xy 99.06 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fbd591d7-606e-4567-8106-132be844c665")
 	)
 	(label "+5v"
 		(at 72.39 72.39 0)
@@ -5198,119 +5227,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:BZX84Cxx")
-		(at 97.917 115.57 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "89ff0f78-85d8-4407-94c7-987e163d1e1b")
-		(property "Reference" "D6"
-			(at 99.949 114.427 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MMBZ5242BLT3G"
-			(at 99.949 116.713 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOT-23_ANK"
-			(at 93.472 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://diotec.com/tl_files/diotec/files/pdf/datasheets/bzx84c2v4.pdf"
-			(at 97.917 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 97.917 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Field4" "Digikey"
-			(at 97.917 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field5" "	MMBZ5242BLT3GOSCT-ND"
-			(at 97.917 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field6" "MMBZ5242BLT3G"
-			(at 97.917 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field7" "Onsemi"
-			(at 97.917 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Description" "	Zener Diode 12V 225mW 5% Surface Mount SOT-23-3 (TO-236)"
-			(at 97.917 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b2d9dde1-095e-41ad-a0cd-b0ce58175fde")
-		)
-		(pin "2"
-			(uuid "d32e2b69-072e-4dcb-9519-60e96e720d4f")
-		)
-		(instances
-			(project "CM5IO"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "D6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:USB_C_Receptacle_USB2.0_16P")
 		(at 46.99 59.69 0)
 		(unit 1)
@@ -5669,6 +5585,88 @@
 			(project "CM5IO"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "R9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Zener_Dual_CommonCathode_AAK_Split")
+		(at 99.06 115.57 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bba7d32b-0219-441a-a139-098eb11354d6")
+		(property "Reference" "D7"
+			(at 101.6 114.2999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D_Zener_Dual_CommonCathode_AAK_Split"
+			(at 101.6 116.8399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 101.6 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 101.6 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Dual Zener diode, common cathode on pin 3"
+			(at 99.06 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mpn" "BZX84C5V1"
+			(at 99.06 115.57 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9ac3f224-676c-4f3c-ba80-98049cdc0a2e")
+		)
+		(pin "3"
+			(uuid "aeea314d-dc65-404a-9b71-21469b3824d0")
+		)
+		(pin "2"
+			(uuid "4c85451c-99a5-41f4-aaa8-680a538f10fb")
+		)
+		(instances
+			(project ""
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "D7")
 					(unit 1)
 				)
 			)
