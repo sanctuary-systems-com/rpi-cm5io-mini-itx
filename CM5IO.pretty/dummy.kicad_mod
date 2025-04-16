@@ -66,5 +66,12 @@
 			)
 		)
 	)
+	(pad "1" smd rect
+		(at 0 0)
+		(size 0.1 0.1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "1be7d1b8-f4f9-47b4-aa8e-d9da77df6777")
+	)
 	(embedded_fonts no)
 )
